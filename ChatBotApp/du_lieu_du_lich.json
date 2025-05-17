@@ -1,0 +1,556 @@
+{
+  "dia_diem_du_lich": {
+    "hà nội": {
+      "gioi_thieu": "Hà Nội, thủ đô ngàn năm văn hiến của Việt Nam, nổi tiếng với lịch sử lâu đời, kiến trúc Pháp cổ kính và ẩm thực đường phố đặc sắc.",
+      "dia_diem_noi_tieng": [
+        "Hồ Gươm",
+        "Văn Miếu - Quốc Tử Giám",
+        "Khu phố cổ",
+        "Lăng Chủ tịch Hồ Chí Minh",
+        "Hoàng thành Thăng Long"
+      ],
+      "thoi_diem_ly_tuong": ["Tháng 9 - tháng 11 (mùa thu, khí hậu mát mẻ, cảnh quan đẹp)", "Tháng 3 - tháng 4 (mùa xuân, thời tiết ấm áp, nhiều lễ hội)"],
+      "luu_tru_tham_khao": [
+        {"loai": "Khách sạn sang trọng", "ten": "Sofitel Legend Metropole Hanoi", "gia_tham_khao": "từ 3.000.000 VNĐ/đêm"},
+        {"loai": "Khách sạn tầm trung", "ten": "Hanoi La Siesta Hotel Trendy", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+        {"loai": "Nhà nghỉ/Homestay", "ten": "Old Quarter Homestay", "gia_tham_khao": "từ 500.000 VNĐ/đêm"}
+      ],
+      "nha_hang_dac_san": [
+        {"ten": "Phở Gia Truyền Bát Đàn", "mon_dac_san": "Phở bò"},
+        {"ten": "Bún Chả Hương Liên", "mon_dac_san": "Bún chả"},
+        {"ten": "Chả Cá Lã Vọng", "mon_dac_san": "Chả cá Lã Vọng"},
+        {"ten": "Xôi Yến", "mon_dac_san": "Xôi xéo"}
+      ],
+      "hoat_dong_pho_bien": ["Tham quan di tích lịch sử", "Khám phá ẩm thực đường phố", "Dạo quanh Hồ Gươm", "Xem múa rối nước"],
+      "chi_phi_tham_khao": "500.000 - 2.000.000 VNĐ/ngày (tùy thuộc vào lựa chọn)"
+    },
+    "đà lạt": {
+      "gioi_thieu": "Đà Lạt, thành phố ngàn hoa mộng mơ, nổi tiếng với khí hậu mát mẻ, cảnh quan thiên nhiên tươi đẹp và các công trình kiến trúc độc đáo.",
+      "dia_diem_noi_tieng": [
+        "Hồ Xuân Hương",
+        "Đồi Chè Cầu Đất",
+        "Thung Lũng Tình Yêu",
+        "Thác Datanla",
+        "Ga Đà Lạt"
+      ],
+      "thoi_diem_ly_tuong": ["Quanh năm, mỗi mùa có vẻ đẹp riêng (tháng 11 - tháng 3: mùa khô, hoa nở; tháng 5 - tháng 10: mùa mưa, cảnh quan xanh tươi)"],
+      "luu_tru_tham_khao": [
+        {"loai": "Resort cao cấp", "ten": "Dalat Palace Heritage Hotel", "gia_tham_khao": "từ 2.500.000 VNĐ/đêm"},
+        {"loai": "Khách sạn boutique", "ten": "Terracotta Hotel & Resort Dalat", "gia_tham_khao": "từ 1.200.000 VNĐ/đêm"},
+        {"loai": "Homestay/Villa", "ten": "The Circle Vietnam Hostel", "gia_tham_khao": "từ 300.000 VNĐ/đêm"}
+      ],
+      "nha_hang_dac_san": [
+        {"ten": "Lẩu Bò Ba Toa", "mon_dac_san": "Lẩu bò"},
+        {"ten": "Nem Nướng Bà Hùng", "mon_dac_san": "Nem nướng"},
+        {"ten": "Bánh Căn Đà Lạt", "mon_dac_san": "Bánh căn"},
+        {"ten": "Kem Bơ Thanh Thảo", "mon_dac_san": "Kem bơ"}
+      ],
+      "hoat_dong_pho_bien": ["Tham quan các vườn hoa", "Đi cáp treo", "Khám phá các thác nước", "Thưởng thức cà phê", "Chụp ảnh tại các địa điểm lãng mạn"],
+      "chi_phi_tham_khao": "700.000 - 2.500.000 VNĐ/ngày"
+    },
+    "hội an": {
+      "gioi_thieu": "Hội An, phố cổ quyến rũ bên dòng sông Thu Bồn, là di sản văn hóa thế giới với những ngôi nhà cổ kính, đèn lồng rực rỡ và ẩm thực đặc sắc.",
+      "dia_diem_noi_tieng": [
+        "Phố cổ Hội An",
+        "Chùa Cầu",
+        "Biển An Bàng",
+        "Cù Lao Chàm"
+      ],
+      "thoi_diem_ly_tuong": ["Tháng 3 - tháng 9 (thời tiết khô ráo, nắng đẹp)", "Tháng 2 (rằm tháng Giêng, lễ hội đèn lồng)"],
+      "luu_tru_tham_khao": [
+        {"loai": "Resort ven biển", "ten": "Four Seasons The Nam Hai", "gia_tham_khao": "từ 7.000.000 VNĐ/đêm"},
+        {"loai": "Khách sạn phố cổ", "ten": "Hoi An Silk Marina Resort & Spa", "gia_tham_khao": "từ 1.800.000 VNĐ/đêm"},
+        {"loai": "Homestay", "ten": "Little Riverside Hoi An - A Little Boutique Hotel & Spa", "gia_tham_khao": "từ 600.000 VNĐ/đêm"}
+      ],
+      "nha_hang_dac_san": [
+        {"ten": "Nhà hàng Morning Glory", "mon_dac_san": "Cao lầu"},
+        {"ten": "Bale Well", "mon_dac_san": "Bánh xèo, nem lụi"},
+        {"ten": "Miss Ly Cafeteria", "mon_dac_san": "Cơm gà Hội An"},
+        {"ten": "Bánh Mì Phượng", "mon_dac_san": "Bánh mì Hội An"}
+      ],
+      "hoat_dong_pho_bien": ["Dạo bộ trong phố cổ", "Đi thuyền trên sông Hoài", "Thả đèn hoa đăng", "May đo quần áo", "Khám phá ẩm thực đường phố"],
+      "chi_phi_tham_khao": "600.000 - 2.000.000 VNĐ/ngày"
+    },
+    "sapa": {
+      "gioi_thieu": "Sapa, thị trấn vùng cao ẩn mình trong sương mù, nổi tiếng với cảnh quan núi non hùng vĩ, ruộng bậc thang tuyệt đẹp và văn hóa độc đáo của các dân tộc thiểu số.",
+      "dia_diem_noi_tieng": [
+        "Đỉnh Fansipan",
+        "Ruộng bậc thang",
+        "Bản Cát Cát",
+        "Thung lũng Mường Hoa"
+      ],
+      "thoi_diem_ly_tuong": ["Tháng 9 - tháng 11 (lúa chín vàng, thời tiết khô ráo)", "Tháng 3 - tháng 5 (mùa hoa nở, khí hậu dễ chịu)"],
+      "luu_tru_tham_khao": [
+        {"loai": "Resort trên núi", "ten": "Topas Ecolodge Sapa", "gia_tham_khao": "từ 3.500.000 VNĐ/đêm"},
+        {"loai": "Khách sạn trung tâm", "ten": "Sapa Jade Hill Resort - MGallery", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+        {"loai": "Homestay bản làng", "ten": "Y Ly Homestay", "gia_tham_khao": "từ 250.000 VNĐ/đêm"}
+      ],
+      "nha_hang_dac_san": [
+        {"ten": "Nhà hàng A Quỳnh", "mon_dac_san": "Thắng cố"},
+        {"ten": "Nhà hàng Red Dao", "mon_dac_san": "Lẩu cá tầm"},
+        {"ten": "Chợ Sapa", "mon_dac_san": "Đồ nướng, cơm lam"}
+      ],
+      "hoat_dong_pho_bien": ["Trekking leo núi", "Tham quan bản làng", "Đi chợ phiên", "Ngắm cảnh quan thiên nhiên", "Trải nghiệm homestay"],
+      "chi_phi_tham_khao": "500.000 - 1.500.000 VNĐ/ngày"
+    },
+    "phú quốc": {
+      "gioi_thieu": "Phú Quốc, hòn đảo ngọc của Việt Nam, nổi tiếng với những bãi biển cát trắng mịn, làn nước trong xanh và hệ sinh thái biển đa dạng.",
+      "dia_diem_noi_tieng": [
+        "Bãi Sao",
+        "Bãi Trường",
+        "VinWonders Phú Quốc",
+        "Hòn Thơm"
+      ],
+      "thoi_diem_ly_tuong": ["Mùa khô (tháng 11 - tháng 4, thời tiết nắng đẹp, biển êm)", "Tháng 5 - tháng 6 (mùa hè, ít mưa, giá cả hợp lý hơn)"],
+      "luu_tru_tham_khao": [
+        {"loai": "Resort 5 sao", "ten": "JW Marriott Phu Quoc Emerald Bay Resort & Spa", "gia_tham_khao": "từ 4.000.000 VNĐ/đêm"},
+        {"loai": "Khách sạn 4 sao", "ten": "Novotel Phu Quoc Resort", "gia_tham_khao": "từ 1.800.000 VNĐ/đêm"},
+        {"loai": "Bungalow/Guesthouse", "ten": "9 Station Hostel Phu Quoc", "gia_tham_khao": "từ 300.000 VNĐ/đêm"}
+      ],
+      "nha_hang_dac_san": [
+        {"ten": "Nhà hàng Xin Chào", "mon_dac_san": "Gỏi cá trích"},
+        {"ten": "Chợ đêm Dinh Cậu", "mon_dac_san": "Hải sản tươi sống"},
+        {"ten": "Bún Quậy Kiến Xây", "mon_dac_san": "Bún quậy"}
+      ],
+      "hoat_dong_pho_bien": ["Tắm biển", "Lặn biển ngắm san hô", "Đi thuyền tham quan đảo", "Vui chơi tại VinWonders", "Thưởng thức hải sản"],
+      "chi_phi_tham_khao": "800.000 - 3.000.000 VNĐ/ngày"
+    },
+    "vịnh hạ long": {
+  "gioi_thieu": "Vịnh Hạ Long, kỳ quan thiên nhiên của Việt Nam, nổi tiếng với hàng ngàn đảo đá vôi lớn nhỏ kỳ vĩ nhô lên từ mặt nước biển xanh ngọc bích, tạo nên một bức tranh sơn thủy hữu tình.",
+  "dia_diem_noi_tieng": [
+    "Đảo Ti Tốp",
+    "Hang Sửng Sốt",
+    "Động Thiên Cung",
+    "Làng chài Cửa Vạn",
+    "Đảo Tuần Châu"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa xuân (tháng 3 - tháng 5, thời tiết ấm áp, ít mưa)", "Mùa thu (tháng 9 - tháng 11, khí hậu mát mẻ, trời trong xanh)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Du thuyền cao cấp", "ten": "Paradise Cruise", "gia_tham_khao": "từ 3.500.000 VNĐ/người/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "Wyndham Legend Halong Hotel", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 3 sao", "ten": "City Bay Palace Hotel", "gia_tham_khao": "từ 800.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng 1958", "mon_dac_san": "Chả mực Hạ Long"},
+    {"ten": "Nhà hàng Phương Nam", "mon_dac_san": "Sam biển"},
+    {"ten": "Chợ đêm Hạ Long", "mon_dac_san": "Hải sản tươi sống"}
+  ],
+  "hoat_dong_pho_bien": ["Đi du thuyền ngắm cảnh vịnh", "Tham quan các hang động", "Chèo thuyền kayak", "Tắm biển tại các bãi tắm nhỏ", "Tham quan làng chài"],
+  "chi_phi_tham_khao": "1.200.000 - 4.000.000 VNĐ/người/ngày (bao gồm vé tham quan và một số hoạt động)"
+},
+    "mộc châu": {
+  "gioi_thieu": "Mộc Châu, cao nguyên xinh đẹp của vùng núi Tây Bắc Việt Nam, nổi tiếng với những đồi chè xanh mướt, những mùa hoa rực rỡ và khí hậu trong lành, mát mẻ.",
+  "dia_diem_noi_tieng": [
+    "Đồi chè trái tim",
+    "Thác Dải Yếm",
+    "Hang Dơi",
+    "Rừng thông bản Áng",
+    "Mộc Châu Happy Land"
+  ],
+  "thoi_diem_ly_tuong": ["Cuối đông - đầu xuân (tháng 1 - tháng 3, mùa hoa mận, hoa đào nở)", "Mùa hè (tháng 4 - tháng 8, khí hậu mát mẻ, nhiều lễ hội)", "Mùa thu (tháng 9 - tháng 11, mùa hoa cải trắng, tam giác mạch)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort cao cấp", "ten": "Mộc Châu Island", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Muong Thanh Holiday Moc Chau", "gia_tham_khao": "từ 800.000 VNĐ/đêm"},
+    {"loai": "Homestay", "ten": "Mama's House Moc Chau", "gia_tham_khao": "từ 300.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Đông Hải", "mon_dac_san": "Bê chao"},
+    {"ten": "Quán Ăn 70", "mon_dac_san": "Cá suối nướng"},
+    {"ten": "Chợ đêm Mộc Châu", "mon_dac_san": "Các món ăn đặc sản vùng cao"}
+  ],
+  "hoat_dong_pho_bien": ["Tham quan đồi chè", "Ngắm hoa theo mùa", "Khám phá hang động, thác nước", "Vui chơi tại khu du lịch", "Thưởng thức đặc sản địa phương"],
+  "chi_phi_tham_khao": "500.000 - 2.000.000 VNĐ/người/ngày"
+},
+    "ninh bình": {
+  "gioi_thieu": "Ninh Bình, vùng đất cố đô với bề dày lịch sử và cảnh quan thiên nhiên hùng vĩ, nổi tiếng với những dãy núi đá vôi trùng điệp, những dòng sông uốn lượn và các di tích văn hóa đặc sắc.",
+  "dia_diem_noi_tieng": [
+    "Tràng An",
+    "Tam Cốc - Bích Động",
+    "Cố đô Hoa Lư",
+    "Chùa Bái Đính",
+    "Vườn quốc gia Cúc Phương"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa xuân (tháng 2 - tháng 4, thời tiết ấm áp, cây cối xanh tươi)", "Đầu hè (tháng 5 - tháng 6, lúa chín vàng ở Tam Cốc)", "Mùa thu (tháng 9 - tháng 11, khí hậu mát mẻ, dễ chịu)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort cao cấp", "ten": "Emeralda Ninh Binh Tam Coc", "gia_tham_khao": "từ 2.000.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "The Reed Hotel", "gia_tham_khao": "từ 900.000 VNĐ/đêm"},
+    {"loai": "Homestay", "ten": "Nguyen Shack Ninh Binh", "gia_tham_khao": "từ 400.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Thăng Long", "mon_dac_san": "Cơm cháy"},
+    {"ten": "Nhà hàng Đức Dê", "mon_dac_san": "Thịt dê núi"},
+    {"ten": "Quán Bún Chả Nem Chua", "mon_dac_san": "Bún chả nem chua Yên Mạc"}
+  ],
+  "hoat_dong_pho_bien": ["Đi thuyền ngắm cảnh Tràng An, Tam Cốc", "Tham quan các di tích lịch sử", "Leo núi", "Khám phá hang động", "Đi xe đạp khám phá vùng quê"],
+  "chi_phi_tham_khao": "600.000 - 2.500.000 VNĐ/người/ngày"
+},
+    "hà giang": {
+  "gioi_thieu": "Hà Giang, vùng đất địa đầu Tổ quốc, nổi tiếng với những cung đường đèo hùng vĩ, những thửa ruộng bậc thang tuyệt đẹp và bản sắc văn hóa độc đáo của các dân tộc thiểu số.",
+  "dia_diem_noi_tieng": [
+    "Đèo Mã Pí Lèng",
+    "Cao nguyên đá Đồng Văn",
+    "Lũng Cú (Cột cờ Lũng Cú)",
+    "Dinh thự họ Vương",
+    "Ruộng bậc thang Hoàng Su Phì"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa xuân (tháng 1 - tháng 3, hoa đào, hoa mận nở)", "Tháng 4 - tháng 5 (mùa nước đổ trên ruộng bậc thang)", "Tháng 9 - tháng 10 (mùa lúa chín vàng)", "Tháng 11 - tháng 12 (mùa hoa tam giác mạch)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort/Homestay cao cấp", "ten": "H'Mong Village Resort", "gia_tham_khao": "từ 1.200.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Khách sạn Cao Nguyên Đá", "gia_tham_khao": "từ 600.000 VNĐ/đêm"},
+    {"loai": "Homestay", "ten": "Bống Bang Homestay", "gia_tham_khao": "từ 250.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng A Quynh", "mon_dac_san": "Thắng cố"},
+    {"ten": "Chợ phiên Đồng Văn", "mon_dac_san": "Mèn mén"},
+    {"ten": "Các quán ăn địa phương", "mon_dac_san": "Bánh cuốn trứng"}
+  ],
+  "hoat_dong_pho_bien": ["Đi xe máy khám phá các cung đường đèo", "Trekking, leo núi", "Tham quan các bản làng dân tộc", "Chợ phiên vùng cao", "Ngắm cảnh thiên nhiên hùng vĩ"],
+  "chi_phi_tham_khao": "700.000 - 2.000.000 VNĐ/người/ngày (tùy thuộc vào phương tiện di chuyển và lựa chọn lưu trú)"
+},
+    "huế": {
+  "gioi_thieu": "Huế, cố đô yên bình và cổ kính của Việt Nam, nổi tiếng với những công trình kiến trúc cung đình, lăng tẩm uy nghiêm, những ngôi chùa cổ kính và nền ẩm thực tinh tế.",
+  "dia_diem_noi_tieng": [
+    "Kinh thành Huế",
+    "Lăng Khải Định",
+    "Lăng Minh Mạng",
+    "Chùa Thiên Mụ",
+    "Sông Hương"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa xuân (tháng 2 - tháng 4, thời tiết ấm áp, dễ chịu)", "Mùa thu (tháng 8 - tháng 10, khí hậu mát mẻ, trời trong xanh)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Khách sạn 5 sao", "ten": "La Residence Hue Hotel & Spa", "gia_tham_khao": "từ 2.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "Indochine Palace", "gia_tham_khao": "từ 1.200.000 VNĐ/đêm"},
+    {"loai": "Khách sạn/Homestay", "ten": "Hue Ecolodge", "gia_tham_khao": "từ 500.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Cung Đình", "mon_dac_san": "Bún bò Huế"},
+    {"ten": "Chợ Đông Ba", "mon_dac_san": "Các loại bánh Huế (bánh bèo, bánh nậm, bánh lọc)"},
+    {"ten": "Các quán ven đường", "mon_dac_san": "Cơm hến"}
+  ],
+  "hoat_dong_pho_bien": ["Tham quan các di tích lịch sử", "Đi thuyền trên sông Hương", "Nghe ca Huế", "Khám phá ẩm thực cung đình và đường phố", "Đi xe đạp dạo quanh thành phố"],
+  "chi_phi_tham_khao": "500.000 - 2.000.000 VNĐ/người/ngày"
+},
+    "đà nẵng": {
+  "gioi_thieu": "Đà Nẵng, thành phố biển năng động và hiện đại của miền Trung Việt Nam, nổi tiếng với những bãi biển tuyệt đẹp, những cây cầu độc đáo và ẩm thực phong phú.",
+  "dia_diem_noi_tieng": [
+    "Bãi biển Mỹ Khê",
+    "Cầu Rồng",
+    "Ngũ Hành Sơn",
+    "Bà Nà Hills",
+    "Bán đảo Sơn Trà"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 3 - tháng 9, thời tiết nắng ráo, biển xanh)", "Tháng 2 (thời tiết dễ chịu sau Tết)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort 5 sao", "ten": "InterContinental Danang Sun Peninsula Resort", "gia_tham_khao": "từ 3.000.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "Novotel Danang Premier Han River", "gia_tham_khao": "từ 1.200.000 VNĐ/đêm"},
+    {"loai": "Căn hộ/Khách sạn", "ten": "TMS Hotel Da Nang Beach", "gia_tham_khao": "từ 700.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Bà Thôi", "mon_dac_san": "Mì Quảng"},
+    {"ten": "Các quán hải sản ven biển", "mon_dac_san": "Hải sản tươi sống"},
+    {"ten": "Bún Chả Cá Ông Tạ", "mon_dac_san": "Bún chả cá"}
+  ],
+  "hoat_dong_pho_bien": ["Tắm biển", "Tham quan các cây cầu", "Vui chơi tại Bà Nà Hills", "Khám phá Ngũ Hành Sơn", "Thưởng thức ẩm thực đường phố"],
+  "chi_phi_tham_khao": "700.000 - 2.500.000 VNĐ/người/ngày"
+},
+    "nha trang": {
+  "gioi_thieu": "Nha Trang, viên ngọc biển Đông của Việt Nam, nổi tiếng với những bãi biển dài thơ mộng, làn nước trong xanh, những hòn đảo xinh đẹp và các hoạt động thể thao biển hấp dẫn.",
+  "dia_diem_noi_tieng": [
+    "Vịnh Nha Trang",
+    "Bãi Dài",
+    "Đảo Hòn Mun",
+    "VinWonders Nha Trang",
+    "Tháp Bà Ponagar"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 3 - tháng 9, thời tiết nắng đẹp, biển êm)", "Tháng 10 - tháng 12 (thời tiết mát mẻ, ít mưa bão hơn)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort 5 sao", "ten": "Mia Resort Nha Trang", "gia_tham_khao": "từ 3.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "InterContinental Nha Trang", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn/Hostel", "ten": "Mojzo Inn Hon Chong", "gia_tham_khao": "từ 400.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Yen's", "mon_dac_san": "Bún chả cá Nha Trang"},
+    {"ten": "Các quán hải sản ven biển", "mon_dac_san": "Hải sản tươi sống"},
+    {"ten": "Nem Nướng Vũ Thành An", "mon_dac_san": "Nem nướng" }
+  ],
+  "hoat_dong_pho_bien": ["Tắm biển", "Lặn biển ngắm san hô", "Đi thuyền tham quan các đảo", "Vui chơi tại VinWonders", "Thưởng thức hải sản"],
+  "chi_phi_tham_khao": "600.000 - 2.000.000 VNĐ/người/ngày"
+},
+    "quy nhơn": {
+  "gioi_thieu": "Quy Nhơn, thành phố biển yên bình và xinh đẹp của tỉnh Bình Định, nổi tiếng với những bãi biển hoang sơ, những danh lam thắng cảnh độc đáo và ẩm thực đặc sắc.",
+  "dia_diem_noi_tieng": [
+    "Eo Gió",
+    "Kỳ Co",
+    "Cù Lao Xanh",
+    "Ghềnh Ráng Tiên Sa",
+    "Tháp Đôi"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 3 - tháng 9, thời tiết nắng đẹp, biển êm)", "Tháng 10 - tháng 2 năm sau (thời tiết mát mẻ, ít mưa bão)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort 5 sao", "ten": "FLC Luxury Resort Quy Nhon", "gia_tham_khao": "từ 2.000.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "Seahorse Resort Quy Nhon", "gia_tham_khao": "từ 1.000.000 VNĐ/đêm"},
+    {"loai": "Khách sạn/Homestay", "ten": "Life's A Beach", "gia_tham_khao": "từ 350.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Ốc Thúy Kiều", "mon_dac_san": "Các món ốc"},
+    {"ten": "Bún Chả Cá Gia Truyền", "mon_dac_san": "Bún chả cá"},
+    {"ten": "Nem Nướng Bà Tám", "mon_dac_san": "Nem nướng" }
+  ],
+  "hoat_dong_pho_bien": ["Tắm biển", "Lặn biển ngắm san hô", "Đi cano, thuyền tham quan các đảo", "Khám phá các điểm du lịch tự nhiên", "Thưởng thức hải sản tươi ngon"],
+  "chi_phi_tham_khao": "500.000 - 1.800.000 VNĐ/người/ngày"
+},
+    "hồ chí minh": {
+  "gioi_thieu": "Hồ Chí Minh, thành phố sôi động và lớn nhất Việt Nam, nổi tiếng với sự pha trộn giữa kiến trúc hiện đại và thuộc địa Pháp, cùng với nền văn hóa ẩm thực đường phố đặc sắc.",
+  "dia_diem_noi_tieng": [
+    "Dinh Độc Lập",
+    "Nhà thờ Đức Bà",
+    "Bưu điện Thành phố",
+    "Chợ Bến Thành",
+    "Địa đạo Củ Chi"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 12 - tháng 4, thời tiết nắng ráo, ít mưa)", "Tháng 5 - tháng 11 (mùa mưa, nhưng thường chỉ mưa rào buổi chiều)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Khách sạn 5 sao", "ten": "The Reverie Saigon", "gia_tham_khao": "từ 3.000.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "Hotel des Arts Saigon - MGallery", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn/Hostel", "ten": "The Common Room Project", "gia_tham_khao": "từ 300.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Bún Bò Huế 31", "mon_dac_san": "Bún bò Huế"},
+    {"ten": "Bánh Mì Huỳnh Hoa", "mon_dac_san": "Bánh mì"},
+    {"ten": "Phá Lấu Bà Chiểu", "mon_dac_san": "Phá lấu"}
+  ],
+  "hoat_dong_pho_bien": ["Tham quan các di tích lịch sử và kiến trúc", "Khám phá ẩm thực đường phố", "Mua sắm tại các khu chợ và trung tâm thương mại", "Vui chơi giải trí", "Trải nghiệm cuộc sống về đêm"],
+  "chi_phi_tham_khao": "500.000 - 2.000.000 VNĐ/người/ngày (tùy thuộc vào sở thích và lựa chọn hoạt động)"
+},
+    "vũng tàu": {
+  "gioi_thieu": "Vũng Tàu, thành phố biển gần gũi với Hồ Chí Minh, nổi tiếng với những bãi biển sôi động, hải sản tươi ngon và các di tích lịch sử.",
+  "dia_diem_noi_tieng": [
+    "Bãi Sau (Bãi Thùy Vân)",
+    "Bãi Trước (Bãi Tầm Dương)",
+    "Hải đăng Vũng Tàu",
+    "Tượng Chúa Kitô Vua",
+    "Mũi Nghinh Phong"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 11 - tháng 4, thời tiết nắng đẹp)", "Cuối tuần (nhiều hoạt động và không khí sôi động)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort 5 sao", "ten": "The Imperial Hotel Vung Tau", "gia_tham_khao": "từ 1.800.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "Pullman Vung Tau", "gia_tham_khao": "từ 1.200.000 VNĐ/đêm"},
+    {"loai": "Khách sạn/Căn hộ dịch vụ", "ten": "Malibu Hotel Vung Tau", "gia_tham_khao": "từ 700.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Lẩu Cá Kèo Hoàng Minh", "mon_dac_san": "Lẩu cá kèo"},
+    {"ten": "Gành Hào", "mon_dac_san": "Hải sản tươi sống"},
+    {"ten": "Bánh Khọt Gốc Vú Sữa", "mon_dac_san": "Bánh khọt"}
+  ],
+  "hoat_dong_pho_bien": ["Tắm biển", "Tham quan các di tích lịch sử", "Leo núi Nhỏ, núi Lớn", "Thưởng thức hải sản", "Đi dạo và ngắm cảnh biển"],
+  "chi_phi_tham_khao": "400.000 - 1.500.000 VNĐ/người/ngày"
+},
+    "côn đảo": {
+  "gioi_thieu": "Côn Đảo, quần đảo xinh đẹp và mang đậm dấu ấn lịch sử của Việt Nam, nổi tiếng với những bãi biển hoang sơ, làn nước trong xanh, hệ sinh thái biển phong phú và các di tích lịch sử cách mạng.",
+  "dia_diem_noi_tieng": [
+    "Bãi Nhát",
+    "Bãi Đầm Trầu",
+    "Nhà tù Côn Đảo",
+    "Nghĩa trang Hàng Dương",
+    "Vườn quốc gia Côn Đảo"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 3 - tháng 9, thời tiết nắng đẹp, biển êm)", "Tháng 10 - tháng 2 năm sau (thời tiết mát mẻ, biển lặng)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort cao cấp", "ten": "Six Senses Con Dao", "gia_tham_khao": "từ 8.000.000 VNĐ/đêm"},
+    {"loai": "Khách sạn 4 sao", "ten": "Poulo Condor Boutique Resort & Spa", "gia_tham_khao": "từ 2.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn/Nhà nghỉ", "ten": "Con Dao Resort", "gia_tham_khao": "từ 1.000.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Thu Ba", "mon_dac_san": "Ốc vú nàng"},
+    {"ten": "Chợ Côn Đảo", "mon_dac_san": "Hải sản tươi sống"},
+    {"ten": "Quán ăn địa phương", "mon_dac_san": "Cá thu một nắng"}
+  ],
+  "hoat_dong_pho_bien": ["Tắm biển", "Lặn biển ngắm san hô", "Tham quan các di tích lịch sử", "Khám phá Vườn quốc gia", "Đi bộ đường dài"],
+  "chi_phi_tham_khao": "1.500.000 - 5.000.000 VNĐ/người/ngày (tùy thuộc vào lựa chọn lưu trú và các hoạt động)"
+},
+    "đồng bằng sông cửu long": {
+  "gioi_thieu": "Đồng bằng sông Cửu Long, vựa lúa lớn nhất của Việt Nam, nổi tiếng với hệ thống kênh rạch chằng chịt, những khu chợ nổi độc đáo, vườn trái cây trĩu quả và nền văn hóa sông nước đặc trưng.",
+  "dia_diem_noi_tieng": [
+    "Chợ nổi Cái Răng (Cần Thơ)",
+    "Vườn trái cây Mỹ Khánh (Cần Thơ)",
+    "Rừng tràm Trà Sư (An Giang)",
+    "Làng hoa Sa Đéc (Đồng Tháp)",
+    "Cầu Cần Thơ"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 12 - tháng 4, thời tiết nắng ráo, thuận tiện cho các hoạt động ngoài trời)", "Mùa hè (tháng 5 - tháng 8, mùa trái cây chín)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort sinh thái", "ten": "Mekong Lodge (Tiền Giang)", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Vinpearl Hotel Cần Thơ", "gia_tham_khao": "từ 900.000 VNĐ/đêm"},
+    {"loai": "Homestay", "ten": "Can Tho Ecolodge", "gia_tham_khao": "từ 400.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Lẩu Mắm Dạ Lý (Cần Thơ)", "mon_dac_san": "Lẩu mắm"},
+    {"ten": "Các quán ăn ven sông", "mon_dac_san": "Cá lóc nướng trui"},
+    {"ten": "Hủ Tiếu Mỹ Tho (Tiền Giang)", "mon_dac_san": "Hủ tiếu Mỹ Tho"}
+  ],
+  "hoat_dong_pho_bien": ["Đi thuyền tham quan chợ nổi", "Khám phá các vườn trái cây", "Tham quan các làng nghề truyền thống", "Đi xe đạp dọc theo các con kênh", "Thưởng thức ẩm thực địa phương"],
+  "chi_phi_tham_khao": "400.000 - 1.500.000 VNĐ/người/ngày (tùy thuộc vào lịch trình và lựa chọn dịch vụ)"
+},
+    "tam đảo": {
+  "gioi_thieu": "Tam Đảo, thị trấn nghỉ dưỡng trên núi thuộc tỉnh Vĩnh Phúc, nổi tiếng với khí hậu mát mẻ quanh năm, cảnh quan thiên nhiên tươi đẹp và kiến trúc Pháp cổ kính.",
+  "dia_diem_noi_tieng": [
+    "Nhà thờ đá cổ Tam Đảo",
+    "Thác Bạc",
+    "Đỉnh Rùng Rình",
+    "Cổng Trời",
+    "Quảng trường Tam Đảo"
+  ],
+  "thoi_diem_ly_tuong": ["Quanh năm (mỗi mùa Tam Đảo mang một vẻ đẹp riêng, mùa hè mát mẻ, mùa đông có sương mù lãng mạn)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort cao cấp", "ten": "Venus Tam Dao Hotel", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Tam Dao Belvedere Resort", "gia_tham_khao": "từ 800.000 VNĐ/đêm"},
+    {"loai": "Homestay/Nhà nghỉ", "ten": "Le Vent Homestay Tam Dao", "gia_tham_khao": "từ 400.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng Lẩu Ngọn Gió", "mon_dac_san": "Lẩu bò Tam Đảo"},
+    {"ten": "Các quán nướng", "mon_dac_san": "Gà đồi nướng"},
+    {"ten": "Chợ Tam Đảo", "mon_dac_san": "Rau su su (các món chế biến)"}
+  ],
+  "hoat_dong_pho_bien": ["Tham quan các địa điểm du lịch nổi tiếng", "Đi bộ, leo núi", "Thưởng thức ẩm thực địa phương", "Ngắm cảnh và chụp ảnh", "Thư giãn trong không khí trong lành"],
+  "chi_phi_tham_khao": "500.000 - 1.500.000 VNĐ/người/ngày"
+},
+    "mai châu": {
+  "gioi_thieu": "Mai Châu, thung lũng xinh đẹp thuộc tỉnh Hòa Bình, nổi tiếng với những cánh đồng lúa xanh mướt, những bản làng dân tộc Thái bình yên và phong tục văn hóa đặc sắc.",
+  "dia_diem_noi_tieng": [
+    "Bản Lác",
+    "Bản Pom Coọng",
+    "Hang Mỏ Luông",
+    "Đèo Thung Khe",
+    "Thác Gò Lào"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa xuân (tháng 2 - tháng 4, thời tiết ấm áp, cây cối đâm chồi nảy lộc)", "Mùa lúa chín (tháng 5 - tháng 6 và tháng 9 - tháng 10, cảnh quan vàng óng tuyệt đẹp)", "Mùa đông (tháng 11 - tháng 1, không khí se lạnh, có thể ngắm hoa cải trắng)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort", "ten": "Mai Chau Ecolodge", "gia_tham_khao": "từ 1.200.000 VNĐ/đêm"},
+    {"loai": "Homestay cộng đồng", "ten": "Homestay Bản Lác", "gia_tham_khao": "từ 250.000 VNĐ/đêm"},
+    {"loai": "Nhà sàn tập thể", "ten": "Nhà sàn ở Bản Pom Coọng", "gia_tham_khao": "từ 150.000 VNĐ/người/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng trong các homestay", "mon_dac_san": ["Cơm lam", "gà đồi nướng"]},
+    {"ten": "Chợ phiên Mai Châu (chủ nhật)", "mon_dac_san": "Các món ăn địa phương"},
+    {"ten": "Quán ăn ven đường", "mon_dac_san": "Xôi nếp nương"}
+  ],
+  "hoat_dong_pho_bien": ["Đi bộ, đạp xe khám phá các bản làng", "Ngủ tại nhà sàn truyền thống", "Tham quan hang động, thác nước", "Tìm hiểu văn hóa Thái qua các buổi biểu diễn văn nghệ", "Mua sắm thổ cẩm"],
+  "chi_phi_tham_khao": "300.000 - 1.000.000 VNĐ/người/ngày (tùy thuộc vào lựa chọn lưu trú và hoạt động)"
+},
+    "pù luông": {
+  "gioi_thieu": "Pù Luông, khu bảo tồn thiên nhiên tuyệt đẹp thuộc tỉnh Thanh Hóa, nổi tiếng với những thửa ruộng bậc thang xanh mướt, những bản làng yên bình của dân tộc Thái và khung cảnh núi non hùng vĩ.",
+  "dia_diem_noi_tieng": [
+    "Bản Pù Luông",
+    "Các bản làng Thái (Bản Đôn, Bản Kho Mường, Bản Báng,...)",
+    "Ruộng bậc thang",
+    "Thác Hiêu",
+    "Đỉnh Pù Luông"
+  ],
+  "thoi_diem_ly_tuong": ["Cuối tháng 5 - đầu tháng 6 (mùa lúa non xanh mướt)", "Tháng 9 - tháng 10 (mùa lúa chín vàng)", "Thời tiết mát mẻ quanh năm"],
+  "luu_tru_tham_khao": [
+    {"loai": "Khu nghỉ dưỡng sinh thái", "ten": "Puluong Retreat", "gia_tham_khao": "từ 1.500.000 VNĐ/đêm"},
+    {"loai": "Homestay", "ten": "Puluong Treehouse", "gia_tham_khao": "từ 500.000 VNĐ/đêm"},
+    {"loai": "Nhà sàn cộng đồng", "ten": "Homestay tại các bản làng", "gia_tham_khao": "từ 200.000 VNĐ/người/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Các nhà hàng, quán ăn địa phương", "mon_dac_san": ["Cơm lam", "gà đồi", "vịt Cổ Lũng"]},
+    {"ten": "Chợ phiên Pù Luông (thường diễn ra vào cuối tuần)", "mon_dac_san": "Các món ăn đặc sản của người Thái"},
+    {"ten": "Homestay", "mon_dac_san": "Các món ăn truyền thống do người dân địa phương chế biến"}
+  ],
+  "hoat_dong_pho_bien": ["Trekking, đi bộ khám phá các bản làng và ruộng bậc thang", "Đi xe đạp", "Tham quan thác nước", "Tìm hiểu văn hóa và phong tục của người Thái", "Thư giãn trong không gian thiên nhiên yên bình"],
+  "chi_phi_tham_khao": "400.000 - 1.200.000 VNĐ/người/ngày (tùy thuộc vào lựa chọn lưu trú và các hoạt động)"
+},
+    "trà cổ": {
+  "gioi_thieu": "Trà Cổ, mũi Sa Vĩ địa đầu Tổ quốc thuộc tỉnh Quảng Ninh, nổi tiếng với bãi biển hoang sơ, bờ cát trắng mịn trải dài và không khí yên bình, tĩnh lặng.",
+  "dia_diem_noi_tieng": [
+    "Bãi biển Trà Cổ",
+    "Mũi Sa Vĩ",
+    "Nhà thờ Trà Cổ",
+    "Chợ Trà Cổ",
+    "Rừng dương Trà Cổ"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa hè (tháng 6 - tháng 8, thời tiết ấm áp, thích hợp tắm biển)", "Mùa thu (tháng 9 - tháng 11, khí hậu mát mẻ, cảnh quan đẹp)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort", "ten": "Sai Gon - Dong Ha Hotel Tra Co", "gia_tham_khao": "từ 800.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Khách sạn Biển Bắc", "gia_tham_khao": "từ 500.000 VNĐ/đêm"},
+    {"loai": "Nhà nghỉ/Homestay", "ten": "Các nhà nghỉ ven biển", "gia_tham_khao": "từ 300.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Các nhà hàng hải sản ven biển", "mon_dac_san": "Hải sản tươi sống (ghẹ, tôm, bề bề...)"},
+    {"ten": "Chợ Trà Cổ", "mon_dac_san": "Bún bề bề"},
+    {"ten": "Các quán ăn địa phương", "mon_dac_san": "Sam biển"}
+  ],
+  "hoat_dong_pho_bien": ["Tắm biển", "Đi dạo trên bãi biển", "Tham quan Mũi Sa Vĩ", "Khám phá chợ Trà Cổ", "Thưởng thức hải sản tươi ngon"],
+  "chi_phi_tham_khao": "400.000 - 1.200.000 VNĐ/người/ngày"
+},
+    "bái tử long": {
+  "gioi_thieu": "Vịnh Bái Tử Long, một kỳ quan thiên nhiên tuyệt đẹp nằm ở phía Đông Bắc Việt Nam, liền kề với Vịnh Hạ Long, nổi tiếng với vẻ đẹp hoang sơ, những hòn đảo đá vôi kỳ vĩ và hệ sinh thái đa dạng.",
+  "dia_diem_noi_tieng": [
+    "Đảo Quan Lạn",
+    "Đảo Minh Châu",
+    "Đảo Ngọc Vừng",
+    "Vườn quốc gia Bái Tử Long",
+    "Hang Thiên Cảnh Sơn"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa hè (tháng 4 - tháng 9, thời tiết ấm áp, thích hợp cho các hoạt động trên biển)", "Mùa thu (tháng 9 - tháng 11, khí hậu mát mẻ, trời trong xanh)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort", "ten": "Van Hai Orient Resort Quan Lan", "gia_tham_khao": "từ 1.200.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Hoàng Gia Minh Châu Hotel", "gia_tham_khao": "từ 700.000 VNĐ/đêm"},
+    {"loai": "Homestay/Nhà nghỉ", "ten": "Các homestay trên đảo Quan Lạn, Minh Châu", "gia_tham_khao": "từ 300.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Các nhà hàng hải sản trên đảo", "mon_dac_san": "Hải sản tươi sống (sá sùng, tu hài, mực...)"},
+    {"ten": "Chợ Quan Lạn, Minh Châu", "mon_dac_san": "Bún sá sùng"},
+    {"ten": "Các quán ăn địa phương", "mon_dac_san": "Gà đồi Quan Lạn"}
+  ],
+  "hoat_dong_pho_bien": ["Đi thuyền tham quan vịnh", "Tắm biển tại các bãi biển hoang sơ", "Khám phá các đảo", "Tham quan Vườn quốc gia", "Thưởng thức hải sản tươi ngon"],
+  "chi_phi_tham_khao": "800.000 - 2.500.000 VNĐ/người/ngày (tùy thuộc vào lựa chọn di chuyển và lưu trú)"
+},
+    "yên tử": {
+  "gioi_thieu": "Yên Tử, ngọn núi linh thiêng và là cái nôi của Thiền phái Trúc Lâm, nổi tiếng với cảnh quan hùng vĩ, những ngôi chùa cổ kính và không khí thanh tịnh.",
+  "dia_diem_noi_tieng": [
+    "Chùa Đồng",
+    "Chùa Hoa Yên",
+    "Khu di tích lịch sử nhà Trần",
+    "Thác Giải Oan",
+    "Cáp treo Yên Tử"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa xuân (tháng 1 - tháng 3 âm lịch, lễ hội Yên Tử)", "Mùa thu (tháng 9 - tháng 11, thời tiết mát mẻ, dễ chịu)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort", "ten": "Legacy Yen Tu - MGallery", "gia_tham_khao": "từ 1.800.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Yen Tu Village", "gia_tham_khao": "từ 800.000 VNĐ/đêm"},
+    {"loai": "Nhà nghỉ", "ten": "Nhà nghỉ tại khu vực Yên Tử", "gia_tham_khao": "từ 400.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng tại các khách sạn, nhà nghỉ", "mon_dac_san": ["Gà đồi Yên Tử", "rau rừng"]},
+    {"ten": "Các quán ăn địa phương", "mon_dac_san": "Bánh đa nem Quảng Yên"},
+    {"ten": "Khu ẩm thực gần khu di tích", "mon_dac_san": "Các món chay"}
+  ],
+  "hoat_dong_pho_bien": ["Hành hương, lễ Phật", "Tham quan các chùa và di tích lịch sử", "Đi cáp treo ngắm cảnh", "Trekking, leo núi", "Thưởng thức ẩm thực chay và đặc sản địa phương"],
+  "chi_phi_tham_khao": "500.000 - 2.000.000 VNĐ/người/ngày (tùy thuộc vào lựa chọn lưu trú và dịch vụ)"
+},
+    "phong nha - kẻ bàng": {
+  "gioi_thieu": "Vườn quốc gia Phong Nha - Kẻ Bàng, di sản thiên nhiên thế giới, nổi tiếng với hệ thống hang động kỳ vĩ, sông ngầm độc đáo và cảnh quan núi đá vôi tráng lệ.",
+  "dia_diem_noi_tieng": [
+    "Hang Sơn Đoòng",
+    "Động Phong Nha",
+    "Động Thiên Đường",
+    "Sông Chày - Hang Tối",
+    "Suối Moọc"
+  ],
+  "thoi_diem_ly_tuong": ["Mùa khô (tháng 3 - tháng 9, thời tiết nắng ráo, thuận tiện cho khám phá hang động)", "Tháng 4 - tháng 5 (thời tiết đẹp nhất)"],
+  "luu_tru_tham_khao": [
+    {"loai": "Resort", "ten": "Sai Gon Phong Nha Hotel", "gia_tham_khao": "từ 900.000 VNĐ/đêm"},
+    {"loai": "Khách sạn", "ten": "Son Doong Riverside", "gia_tham_khao": "từ 600.000 VNĐ/đêm"},
+    {"loai": "Homestay", "ten": "Pepper Homestay", "gia_tham_khao": "từ 300.000 VNĐ/đêm"}
+  ],
+  "nha_hang_dac_san": [
+    {"ten": "Nhà hàng tại các khách sạn, homestay", "mon_dac_san": "Các món ăn địa phương (bánh xèo Quảng Bình, cháo canh...)"},
+    {"ten": "Các quán ăn ở thị trấn Phong Nha", "mon_dac_san": "Gà nướng"},
+    {"ten": "Homestay", "mon_dac_san": "Các món ăn gia đình"}
+  ],
+  "hoat_dong_pho_bien": ["Khám phá các hang động", "Đi thuyền trên sông ngầm", "Tham gia các hoạt động mạo hiểm (zipline, chèo thuyền kayak)", "Tắm suối", "Khám phá văn hóa địa phương"],
+  "chi_phi_tham_khao": "600.000 - 3.000.000 VNĐ/người/ngày (tùy thuộc vào lựa chọn tour khám phá hang động)"
+}
+  }
+}
